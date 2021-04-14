@@ -1,0 +1,102 @@
+START
+# of data
+31500
+scaler
+fit
+find best k
+-1 0.0
+score , k , best score, best k
+0.8015238095238095
+1
+0.8015238095238095
+1
+1 0.8015238095238095
+score , k , best score, best k
+0.8294285714285714
+2
+0.8294285714285714
+2
+2 0.8294285714285714
+score , k , best score, best k
+0.8308571428571428
+3
+0.8308571428571428
+3
+score , k , best score, best k
+0.8427619047619047
+4
+0.8427619047619047
+4
+score , k , best score, best k
+0.8414285714285714
+5
+0.8427619047619047
+4
+START
+# of data
+31500
+scaler
+fit
+find best k
+-1 0.0
+score , k , best score, best k
+0.8015238095238095
+1
+0.8015238095238095
+1
+1 0.8015238095238095
+score , k , best score, best k
+0.8294285714285714
+2
+0.8294285714285714
+2
+2 0.8294285714285714
+score , k , best score, best k
+0.8308571428571428
+3
+0.8308571428571428
+3
+3 0.8308571428571428
+score , k , best score, best k
+0.8427619047619047
+4
+0.8427619047619047
+4
+score , k , best score, best k
+0.8414285714285714
+5
+0.8427619047619047
+4
+4 0.8427619047619047
+score , k , best score, best k
+0.8471428571428572
+6
+0.8471428571428572
+6
+score , k , best score, best k
+0.8423809523809523
+7
+0.8471428571428572
+6
+score , k , best score, best k
+0.8445714285714285
+8
+0.8471428571428572
+6
+score , k , best score, best k
+0.8433333333333334
+9
+0.8471428571428572
+6
+found best k
+6 0.8471428571428572
+DONE
+knn = 3
+fiting
+score
+0.8308571428571428
+done
+scaler
+fit
+fiting knn
+finding  score
